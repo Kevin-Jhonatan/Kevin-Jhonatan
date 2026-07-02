@@ -9,13 +9,16 @@
 <h3 align="center">Full Stack Developer & Content Creator</h3>
 
 <div align="center">
+  <a href="https://kevin-jhonatan.cochasoft.com/en" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
+  </a>
   <a href="https://github.com/kevinjhonatan" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
   <a href="https://linkedin.com/in/kevinjhonatan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:hello@kevinjhonatan.com">
+  <a href="mailto:kevin7.world@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
@@ -30,7 +33,7 @@ I'm a **Full Stack Developer** with **5+ years of experience** building web apps
 - 🌱 Currently diving deeper into **system design, performance optimization, and AI integration**
 - 👯 Open to collaborating on **web apps, design systems, and open source projects**
 - 💬 Ask me about **React, Next.js, TypeScript, UI/UX, Drupal, Linux**
-- 📫 Reach me at **hello@kevinjhonatan.com**
+- 📫 Reach me at **kevin7.world@gmail.com**
 
 ### Past experience
 
@@ -63,8 +66,5 @@ I use **Linux Ubuntu** as my primary OS and have gained most of my work experien
 ---
 
 > 🚧 **Currently building** — [Portfolio](https://kevin-jhonatan.cochasoft.com/en) — Next.js 16, Tailwind v4, TypeScript
-
----
----
 
 > *"Creo aplicaciones web, sitios y apps móviles que resuelven problemas reales. ¿Tienes algo en mente? Hagámoslo."*
