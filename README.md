@@ -1,70 +1,103 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/83718854?s=400&u=dbbcf82e0d0587ca69e1a770174f27f8730b77ef&v=4" width="120" style="border-radius:50%;" alt="Kevin Jhonatan">
+
+<img src="https://avatars.githubusercontent.com/u/83718854?s=400&u=dbbcf82e0d0587ca69e1a770174f27f8730b77ef&v=4" width="180" alt="Kevin Jhonatan">
+
+# I'm Kevin Jhonatan
+
+[kevinjhonatan.tech](https://kevinjhonatan.tech/)  ·  [LinkedIn](https://linkedin.com/in/kevinjhonatan)  ·  [GitHub](https://github.com/Kevin-Jhonatan)  ·  [Email](mailto:kevin7.world@gmail.com)
+
+**Full Stack Developer · AI & Automation · Mobile Developer · Open Source**
+
+Building web applications, mobile apps, and digital products with a focus on **architecture, usability, performance, and maintainability**.
+
 </div>
 
-<h1 align="center">
-  Hi 👋🏻, I'm <span style="color:#F26D3D;">Kevin Jhonatan</span>
-</h1>
+## What I'm Working On
 
-<h3 align="center">Full Stack Developer & Content Creator</h3>
+Currently focused on building better software and development workflows.
+
+* **Software Architecture** — Designing scalable and maintainable applications
+* **SDD & TDD** — Applying Spec-Driven Development and Test-Driven Development in our development process
+* **AI Engineering** — Integrating AI into development workflows and real-world applications
+* **AI Skills & MCP** — Building AI Skills, MCP integrations, and automated workflows for development tasks
+* **Portfolio Development** — Improving and expanding my personal portfolio and developer presence
+* **Mobile Development** — Building applications with React Native and Flutter
+
+## About Me
+
+I'm a **Full Stack Developer with 5+ years of professional experience** working across web development, backend systems, CMS, DevOps, and UI/UX.
+
+I enjoy working across the complete development lifecycle, from **architecture and design to development, testing, deployment, and infrastructure**.
+
+My main interests are **software architecture, developer experience, AI-assisted development, automation, UI/UX, and open source**.
+
+## Experience
+
+**Full Stack Development**
+
+Building and maintaining production applications across the stack, including **interfaces, APIs, databases, integrations, upgrades, testing, deployment, and infrastructure**.
+
+Working with **React, Next.js, TypeScript, Tailwind CSS, Drupal, NestJS, GraphQL, Java, and Spring Boot**.
+
+**DevOps & Infrastructure**
+
+Working with **Linux and Ubuntu** environments across development and production, including server administration, deployments, environment management, caching, and infrastructure.
+
+**UI/UX**
+
+Translating product requirements and designs into **production-ready interfaces**, with a focus on usability, responsive design, reusable components, and design systems.
+
+## Tech Stack
+
+### Frontend & Web
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,ts,js,tailwind,html,css" height="42" alt="Frontend technologies"> <img src="https://cdn.simpleicons.org/drupal/0678BE" height="42" alt="Drupal">
+</p>
+
+React · Next.js · Vite · TypeScript · JavaScript · Tailwind CSS · HTML · CSS · Drupal
+
+### Backend & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nestjs,spring,graphql,ts,java,postgres,mysql,redis,firebase" height="42" alt="Backend technologies">
+</p>
+
+NestJS · Spring Boot · GraphQL · TypeScript · Java · PostgreSQL · MySQL · Redis · Firebase
+
+### DevOps & Tools
+
+<p> <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,git,github,gitlab,vercel" height="42" alt="DevOps technologies"> </p>
+
+Linux · Ubuntu · macOS · Docker · Git · GitHub · GitLab · Vercel
+
+### Mobile & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart,figma" height="42" alt="Mobile and design technologies">
+</p>
+
+**React Native · Flutter · Dart · Figma · UI/UX · Design Systems**
+
+### AI & Developer Tooling
+
+Working with AI-powered development tools and workflows to improve productivity, automation, software quality, and developer experience.
+
+OpenCode · GitHub Copilot · MCP · AI Skills · SDD · TDD · Automation
+
+Building and integrating AI Skills and MCP workflows, while applying Spec-Driven Development and Test-Driven Development to make development processes more structured, repeatable, and efficient.
+
+## Let's Connect
+
+I'm interested in **building products, solving challenging technical problems, contributing to open source, and collaborating with developers around the world**.
+
+If you're working on something interesting, let's talk.
 
 <div align="center">
-  <a href="https://kevin-jhonatan.cochasoft.com/en" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/kevinjhonatan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/kevinjhonatan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:kevin7.world@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
+
+<a href="https://kevinjhonatan.tech">kevinjhonatan.tech</a>
+ ·  <a href="https://linkedin.com/in/kevinjhonatan">LinkedIn</a>
+ ·  <a href="https://github.com/Kevin-Jhonatan">GitHub</a>
+ ·  <a href="mailto:kevin7.world@gmail.com">Email</a>
+
 </div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a **Full Stack Developer** with **5+ years of experience** building web apps, websites, and mobile apps that solve real problems. I take ideas from paper to production with quality, assurance, and results.
-
-- 🔭 I build products end-to-end using **Next.js, React, TypeScript, Spring Boot, and Node.js**
-- 🌱 Currently diving deeper into **system design, performance optimization, and AI integration**
-- 👯 Open to collaborating on **web apps, design systems, and open source projects**
-- 💬 Ask me about **React, Next.js, TypeScript, UI/UX, Drupal, Linux**
-- 📫 Reach me at **kevin7.world@gmail.com**
-
-### Past experience
-
-- **Drupal** (versions 8, 9, 10) — built and maintained enterprise-level sites
-- **React Native** — participated in a mobile app project
-- **Figma** — part of the web design team; designs deployed to production
-- **Linux Ubuntu** — server administration, deployments across Dev/Test/Production environments
-
-I use **Linux Ubuntu** as my primary OS and have gained most of my work experience in this environment — something I truly enjoy.
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & Tools
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Drupal](https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-> 🚧 **Currently building** — [Portfolio](https://kevin-jhonatan.cochasoft.com/en) — Next.js 16, Tailwind v4, TypeScript
-
-> *"Creo aplicaciones web, sitios y apps móviles que resuelven problemas reales. ¿Tienes algo en mente? Hagámoslo."*
